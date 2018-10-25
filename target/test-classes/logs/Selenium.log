@@ -1,0 +1,7 @@
+14:49:44,893 DEBUG devgencho:46 - Config File Loaded
+14:49:44,895 DEBUG devgencho:55 - OR File Loaded
+14:49:47,396 DEBUG devgencho:67 - Chrome Launched
+14:49:49,601 DEBUG devgencho:77 - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+14:49:50,799 DEBUG devgencho:15 - clicked on button: button[contains(text(), 'Bank Manager Login')]
+14:49:53,799 DEBUG devgencho:17 - Login Successfull
+14:49:54,463 DEBUG devgencho:87 - Shutting down webdriver manager
